@@ -1,7 +1,8 @@
 import React from 'react';
 import HeaderButton from './HeaderButton';
 
-function Header() {
+
+function Header() {  
   return (
     <div>
       <HeaderButton />
